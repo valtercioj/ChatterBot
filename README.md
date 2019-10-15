@@ -8,4 +8,10 @@
 This package can be installed from [PyPi](https://pypi.python.org/pypi/ChatterBot) by running:
 
 ```
-pip install chatterbot or pip3 install chatterbot
+pip install chatterbot 
+```
+
+
+```
+pip3 install chatterbot 
+```
