@@ -15,3 +15,4 @@ while True:
 
     print('Bot: ', response) 
 
+# author: Valtercio Junior
